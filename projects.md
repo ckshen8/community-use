@@ -25,3 +25,4 @@ Applying is straightforward. You'll propose your project by adding it to this li
 (Add your project below this line, following the instructions above.)
 
 [FusePress](https://fusepress.co) - FusePress eliminates inefficiencies in managing WordPress websites with a unified platform for plugin licensing, deployment, and support
+[Hungry Onion](https://www.hungryonion.org) - Hungry Onion is an active, free and no-revenue community based on the open source Discourse platform that encourages thoughtful discussions amongst serious food lovers on dining out and cooking.  
